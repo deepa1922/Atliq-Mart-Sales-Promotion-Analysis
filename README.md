@@ -1,4 +1,4 @@
-# Atliq-s-Mart-Sales-and-Promotion-Analysis
+# Atliq-Mart-Sales-and-Promotion-Analysis
 Completed an end-to-end data analysis project providing valuable insights to an FMCG company. Utilized Power BI and MySQL for comprehensive analysis, addressing business ad-hoc queries using MySQL and creating dashboards with Power BI.
 
 # Task
