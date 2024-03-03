@@ -15,3 +15,7 @@ Analyze the promotional performance of AtliQ Mart during Diwali 2023 and Sankran
 - Ad-Hoc Queries: Address ad-hoc business queries.
 - Dashboard Creation: Create a comprehensive dashboard using various charts.
 - Presentation: Craft a presentation to communicate findings effectively.
+
+
+# presentation link:
+https://drive.google.com/file/d/1rtSpkoLkeNgIbfl16yEd9SDNEA2WJ_fH/view?usp=sharing
